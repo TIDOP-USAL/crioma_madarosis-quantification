@@ -39,8 +39,8 @@ The project is structured as follows:
 
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/Tidop-Group/crioma-madarosis-quantification.git](https://github.com/Tidop-Group/crioma-madarosis-quantification.git)
-    cd crioma-madarosis-quantification
+    git clone [https://github.com/Tidop-Group/crioma_madarosis-quantification.git](https://github.com/Tidop-Group/crioma_madarosis-quantification.git)
+    cd crioma_madarosis-quantification
     ```
 
 2.  Install the required Python packages:
